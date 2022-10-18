@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@700&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.kto:hover {
+  color:green;
+  text-decoration: underline;
+  text-align:;
+}
+
+ body {
+   font-family: Silkscreen;
+ }
